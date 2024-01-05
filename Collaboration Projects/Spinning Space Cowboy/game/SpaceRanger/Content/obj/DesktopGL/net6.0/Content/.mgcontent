@@ -4,26 +4,26 @@
   <Platform>DesktopGL</Platform>
   <Config />
   <SourceFiles>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/Astronaut_Sheet.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/Bandit_Sheet.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/crosshair.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/exit_button.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/File.spritefont</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/font2.spritefont</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/game_over.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/heart.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/playagain.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/Resume.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/Rocks Sheet.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/Round_Sheet.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/space_ranger_button.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/space_title.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/Stars.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/Stars2.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/target.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/tutorial_button.png</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/wavefont.spritefont</File>
-    <File>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/You_Win_Sheet.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/Astronaut_Sheet.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/Bandit_Sheet.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/crosshair.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/exit_button.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/File.spritefont</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/font2.spritefont</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/game_over.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/heart.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/playagain.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/Resume.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/Rocks Sheet.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/Round_Sheet.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/space_ranger_button.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/space_title.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/Stars.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/Stars2.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/target.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/tutorial_button.png</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/wavefont.spritefont</File>
+    <File>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/You_Win_Sheet.png</File>
   </SourceFiles>
   <DestFiles>
     <File xsi:nil="true" />

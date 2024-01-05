@@ -107,11 +107,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\t\\source\\repos\\gdaps2_2225_team_h\\game\\SpaceRanger\\SpaceRanger\\SpaceRanger.csproj",
+      "projectUniqueName": "C:\\Users\\t\\source\\repos\\Co-op-Search\\Collaboration Projects\\Spinning Space Cowboy\\game\\SpaceRanger\\SpaceRanger.csproj",
       "projectName": "SpaceRanger",
-      "projectPath": "C:\\Users\\t\\source\\repos\\gdaps2_2225_team_h\\game\\SpaceRanger\\SpaceRanger\\SpaceRanger.csproj",
+      "projectPath": "C:\\Users\\t\\source\\repos\\Co-op-Search\\Collaboration Projects\\Spinning Space Cowboy\\game\\SpaceRanger\\SpaceRanger.csproj",
       "packagesPath": "C:\\Users\\t\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\t\\source\\repos\\gdaps2_2225_team_h\\game\\SpaceRanger\\SpaceRanger\\obj\\",
+      "outputPath": "C:\\Users\\t\\source\\repos\\Co-op-Search\\Collaboration Projects\\Spinning Space Cowboy\\game\\SpaceRanger\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\t\\AppData\\Roaming\\NuGet\\NuGet.Config",

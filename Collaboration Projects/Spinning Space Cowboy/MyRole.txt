@@ -1,0 +1,21 @@
+## My Role For This Project
+
+in this project my role was creating and implementing assets for the player, enemies, and other obstacles.
+
+## Classes I Created
+- PLayer.cs
+- Enemies.cs
+- Bullet.cs
+- Barriers.cs
+
+## What I did in Each Class I worked on
+
+- Player.cs: I created all code for this class
+
+- Enemies.cs: I created all code for this class
+
+- Bullet.cs: I created the constructor and Draw methods for this class as well as collaborated on the Update and Move methods
+
+- Barriers.cs: I created all code for this class, it is read for implementation however was not implemented due to time constraints and prioritizatoon of other elements of the project for the turn-in.
+
+- Game1.cs: I worked heavily on the LoadContent method to implement all game objects for the scenes. I also created all FSM logic for state changes within the game. I created code for key presses and what they do. I collaborated with my teammates on collision detection and what happens when it happens. I collaborated on the aiming and shooting mechanics for the player as well as recoil movement. 

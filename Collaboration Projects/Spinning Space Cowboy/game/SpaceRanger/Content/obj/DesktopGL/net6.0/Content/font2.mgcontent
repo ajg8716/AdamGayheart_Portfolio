@@ -1,1 +1,22 @@
-<?xml version="1.0" encoding="utf-8"?><PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"><SourceFile>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/font2.spritefont</SourceFile><SourceTime>2023-05-01T08:10:39.6318603-04:00</SourceTime><DestFile>C:/Users/t/source/repos/gdaps2_2225_team_h/game/SpaceRanger/SpaceRanger/Content/bin/DesktopGL/Content/font2.xnb</DestFile><DestTime>2023-05-01T08:10:45.9467816-04:00</DestTime><Importer>FontDescriptionImporter</Importer><ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime><Processor>FontDescriptionProcessor</Processor><ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime><Parameters><Key>PremultiplyAlpha</Key><Value>True</Value></Parameters><Parameters><Key>TextureFormat</Key><Value>Compressed</Value></Parameters><Dependencies /><BuildAsset /><BuildOutput /></PipelineBuildEvent>
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <SourceFile>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/font2.spritefont</SourceFile>
+  <SourceTime>2023-05-01T08:10:39.6318603-04:00</SourceTime>
+  <DestFile>C:/Users/t/source/repos/Co-op-Search/Collaboration Projects/Spinning Space Cowboy/game/SpaceRanger/Content/bin/DesktopGL/Content/font2.xnb</DestFile>
+  <DestTime>2024-01-05T15:49:00.9188012-05:00</DestTime>
+  <Importer>FontDescriptionImporter</Importer>
+  <ImporterTime>2022-07-26T07:44:56-04:00</ImporterTime>
+  <Processor>FontDescriptionProcessor</Processor>
+  <ProcessorTime>2022-07-26T07:44:56-04:00</ProcessorTime>
+  <Parameters>
+    <Key>PremultiplyAlpha</Key>
+    <Value>True</Value>
+  </Parameters>
+  <Parameters>
+    <Key>TextureFormat</Key>
+    <Value>Compressed</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

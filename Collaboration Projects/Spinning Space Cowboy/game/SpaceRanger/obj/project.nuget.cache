@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "by7Z36hqitRSwJrjzW4jI/ec1j7zVplLxsOprLbmiwDYt9wUIkYGwjyp5cOMQeTzG7R0f2DteWJzYE7ByqD/Nw==",
+  "dgSpecHash": "6bdJlM5PZEHWowh+4eNRK6NFkzVJbaOAuEQHQkxSsG5FghfczOwdrQdhfPbjPdmNDe477xwDGdSgkm9d9HpR0A==",
   "success": true,
-  "projectFilePath": "C:\\Users\\t\\source\\repos\\gdaps2_2225_team_h\\game\\SpaceRanger\\SpaceRanger\\SpaceRanger.csproj",
+  "projectFilePath": "C:\\Users\\t\\source\\repos\\Co-op-Search\\Collaboration Projects\\Spinning Space Cowboy\\game\\SpaceRanger\\SpaceRanger.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\t\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
     "C:\\Users\\t\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
