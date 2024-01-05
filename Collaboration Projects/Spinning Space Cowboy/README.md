@@ -1,12 +1,11 @@
-# **GAME TITLE** by TEAM_NAME
+# **GAME TITLE** by TEAM_H
 ## IGME-106 Spring 2023
 
 _This README contains basic information about the project and its artifacts. If kept up to date, it will act as a primary dashboard for the project._
 
 ## Team Members
 - Declan Killmurray
-- MEMBER2
-- MEMBER3
+- Adam Gayheart- MEMBER3
 - MEMBER4
 - MEMBER5
 
@@ -21,3 +20,5 @@ See [resources/README.md](resources/README.md) for details.
 - [MonoGame Documentation](http://www.monogame.net/documentation/?page=main)
 - [Course homepage](https://mycourses.rit.edu/d2l/home/1012413)
 - This [UML class diagram reference](http://agilemodeling.com/artifacts/classDiagram.htm) probably has more than you'll need, but it's a good starting point. (That site in general has a lot of great resources.)
+
+
