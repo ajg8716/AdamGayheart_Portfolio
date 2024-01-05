@@ -1,0 +1,44 @@
+level 0
+x,x,x,x,x
+x,x,x,t,x
+x,x,x,t,x
+x,x,x,t,x
+x,x,x,x,x
+
+level 1
+x,1,x,x,x
+x,x,x,x,e
+e,x,x,x,x
+x,x,x,x,e
+x,x,x,x,x
+
+level 2
+x,x,x,e,x
+x,x,x,x,e
+e,x,x,x,x
+x,x,x,x,e
+x,x,x,e,x
+
+level 3
+e,x,x,x,e
+x,x,x,x,x
+e,x,x,x,e
+x,x,x,x,x
+e,x,x,x,e
+
+level 4
+x,e,e,e,x
+e,x,x,x,x
+e,x,x,x,e
+e,x,x,x,x
+x,e,e,e,x
+
+level 5
+e,e,x,e,e
+x,x,x,x,x
+e,x,x,x,e
+x,x,x,x,x
+e,e,x,e,e
+
+
+end
