@@ -1,0 +1,16 @@
+## My Role For This Project
+
+I am working as the Team lead in the game that me and some friends are currently developing. Leading team discussions to set goals for production. In addition to this role I have focused my efforts in developing our experimental Player Movement controller. As the player must navigate the game in Zero Gravity I have made creative decisions on how this will work in first-person. Removing self propulsion used by wasd, common of other zero gravity controllers. I instead designed a grab and propel mechanic where the player navigated by grabbing onto bars in the environment, using them to throw themselves around the map. The game is currently in a demo state and we are continuing to develop it further, with plans of more surfaces to grab onto and push off of.
+
+## Classes and Elements I Created
+- ZeroGravity.cs
+- Zero G Player prefab in SampleScene and DemoScene
+- 'Grabbable' Tag and Layer
+- 'Barrier' Tag and Layer
+
+## What I did in Each Class and Element I worked on
+
+-  ZeroGravity.cs: script that handles everything to do with player movement and look mechanics
+-  The Zero G Player prefab is a hierarchy of all components that make up the player including: the first person camera, Canvas for player UI, a collider, and bounding sphere
+-  The 'Grabbable' tag and layer are used by the ZeroGravity.TryGrabBar() to find grabbable bars in the range of a ray cast surrounding the players crosshair. the tag is also used by ZeroGravity.GetClosestGrabbableObject() to find the closest grabbable bar and set the hand UI Icon on it so the player can see what bar they grabbing onto.
+-  The 'Barrier' tag is used by ZeroGravity.PropelOffWall() to check if a barrier/ wall is in range of the players ray cast. Therefore allowing them to push off the wall. 
