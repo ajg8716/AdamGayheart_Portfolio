@@ -1,0 +1,37 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Program Files/Epic Games/UE_5.3/Engine/Content/EditorResources/FieldNodes/_Resources/M_FieldRadiusPreview.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/MyFirstUnrealGame/Content/MyContent/DemoLevel.umap",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/DemoLevel.umap",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/StarterContent/Props/Materials/M_Chair.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/StarterContent/Props/Materials/M_TableRound.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/Platform.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/EnemySphere.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/EndOfLevelDoor.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/MyGamemode.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/MyCharacter.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/IA_Move.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/IA_Look.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/MyPlayerController.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/IMC_Default.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/IA_Jump.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/IA_Pause.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/IA_UseObject.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/Orb.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/DemoLevel_BuiltData.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/MyHUD.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/PauseMenu.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/GameOverMenu.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/MyContent/WinScreenMenu.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/StarterContent/Audio/Fire01_Cue.uasset",
+				"C:/Users/Adam/Documents/Unreal Projects/TutorialProject/Content/StarterContent/Props/EndOfLevelDoor.uasset"
+			]
+		}
+	]
+}
