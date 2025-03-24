@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jsmediatags/3.9.5/jsmediatags.min.js"></script>
+    <title>DJ Web App</title>
+    <link href="./styles/default-styles.css" type="text/css" rel="stylesheet"/>
+    <script src="./src/loader.js" type="module"></script>
+    <script src="./src/audio-analyser.js" type="module"></script>
+    <link rel="icon" href="data:," />
+</head>
+<body>
+    <div class="dj-container" id="turntable1">
+        <p>Turntable 1</p>
+        <input type="file" id="input1" accept=".mp3, .wav">
+        <div id="cover1"></div>
+        <p id="title1"></p>
+        <p id="artist1"></p>
+        <canvas id="jogwheel1" width="150" height="150" class="jogwheel"></canvas>
+        <button class="cue-btn" id="cue1">Cue</button>
+        <button class="play-btn" id="play1" data-playing="no">Play</button>
+    </div>
+    <div id="channel1" class="mixer">
+        <div class="slider-container">
+            <label>High</label>
+            <input type="range" min="0" max="100" value="50" class="slider">
+        </div>
+        <div class="slider-container">
+            <label>Mid</label>
+            <input type="range" min="0" max="100" value="50" class="slider">
+        </div>
+        <div class="slider-container">
+            <label>Low</label>
+            <input type="range" min="0" max="100" value="50" class="slider">
+        </div>
+        <div class="slider-container">
+            <label>CFX</label>
+            <input type="range" id="cfx1" min="0" max="100" value="50">
+        </div>
+        <div class="slider-container">
+            <label>Volume</label>
+            <input type="range" id="volume-slider1" min="0" max="100" value="50">
+        </div>
+    </div>
+    <div id="channel2" class="mixer">
+        <div class="slider-container">
+            <label>High</label>
+            <input type="range" min="0" max="100" value="50" class="slider">
+        </div>
+        <div class="slider-container">
+            <label>Mid</label>
+            <input type="range" min="0" max="100" value="50" class="slider">
+        </div>
+        <div class="slider-container">
+            <label>Low</label>
+            <input type="range" min="0" max="100" value="50" class="slider">
+        </div>
+        <div class="slider-container">
+            <label>CFX</label>
+            <input type="range" id="cfx2" min="0" max="100" value="50">
+        </div>
+        <div class="slider-container">
+            <label>Volume</label>
+            <input type="range" id="volume-slider2" min="0" max="100" value="50">
+        </div>
+    </div>
+    <div class="dj-container" id="turntable2">
+        <p>Turntable 2</p>
+        <input type="file" id="input2" accept=".mp3, .wav">
+        <div id="cover2"></div>
+        <p id="title2"></p>
+        <p id="artist2"></p>
+        <canvas id="jogwheel2" width="150" height="150" class="jogwheel"></canvas>
+        <button class="cue-btn" id="cue2">Cue</button>
+        <button class="play-btn" id="play2" data-playing="no">Play</button>
+    </div>
+    </div>
+</body>
+</html>
